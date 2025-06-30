@@ -58,6 +58,10 @@ A machine learning project to classify emails as **spam** or **not spam** using 
 | SVM                | 97.2%    | 96.4%     | 95.1%  | 95.7%    |
 
 ---
+## 🤝 Contributors
+
+- **Tashwita Bhirud** – Electronics & Telecommunication + AIML
+- **Shruti Munde** - Electronics & Telecommunication + AIML
 
 ## 🖥️ Sample Prediction
 
@@ -67,4 +71,5 @@ Output: Spam
 
 Input: "Please find the meeting agenda attached."
 Output: Not Spam
+
 
